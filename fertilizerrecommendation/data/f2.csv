@@ -1,0 +1,150 @@
+Soil_Type,Crop_Type,Nitrogen,Potassium,Phosphorous,Fertilizer
+clayey,rice,90.0,49.0,36.0,Urea
+loamy,rice,66.0,59.0,36.0,Urea
+loamy,wheat,41.0,0.0,0.0,Urea
+loamy,wheat,38.0,0.0,0.0,Urea
+loamy,wheat,39.0,0.0,0.0,Urea
+red,tobacco,39.0,0.0,0.0,Urea
+loamy,sugarcane,38.0,0.0,0.0,Urea
+black,sugarcane,35.0,0.0,0.0,Urea
+clayey,pulses,38.0,0.0,0.0,Urea
+clayey,pulses,40.0,0.0,0.0,Urea
+loamy,pomegranate,2.0,24.0,38.0,Urea
+clayey,paddy,35.0,0.0,0.0,Urea
+clayey,paddy,39.0,0.0,0.0,Urea
+clayey,paddy,36.0,0.0,0.0,Urea
+black,oil seeds,37.0,0.0,0.0,Urea
+black,oil seeds,42.0,0.0,0.0,Urea
+black,millets,36.0,0.0,0.0,Urea
+black,millets,41.0,0.0,0.0,Urea
+sandy,millets,41.0,0.0,0.0,Urea
+black,millets,35.0,0.0,0.0,Urea
+sandy,maize,37.0,0.0,0.0,Urea
+red,ground nuts,41.0,0.0,0.0,Urea
+loamy,cotton,36.0,0.0,0.0,Urea
+black,cotton,39.0,0.0,0.0,Urea
+loamy,coffee,85.0,33.0,25.0,Urea
+loamy,coffee,80.0,30.0,25.0,Urea
+loamy,watermelon,110.0,10.0,54.0,TSP
+loamy,rice,86.0,41.0,36.0,TSP
+loamy,pomegranate,5.0,15.0,38.0,TSP
+loamy,watermelon,100.0,24.0,54.0,TSP
+loamy,watermelon,109.0,27.0,54.0,TSP
+loamy,pomegranate,5.0,21.0,38.0,TSP
+loamy,rice,73.0,48.0,36.0,TSP
+loamy,pomegranate,0.0,27.0,38.0,Superphosphate
+loamy,pomegranate,31.0,25.0,38.0,Superphosphate
+loamy,pomegranate,21.0,21.0,38.0,Superphosphate
+loamy,pomegranate,15.0,11.0,38.0,Potassium sulfate.
+loamy,pomegranate,39.0,30.0,38.0,Potassium sulfate.
+sandy,cotton,22.0,26.0,38.0,Potassium sulfate.
+loamy,cotton,117.0,43.0,25.0,Potassium chloride
+loamy,watermelon,92.0,8.0,54.0,DAP
+loamy,watermelon,114.0,27.0,54.0,DAP
+clayey,rice,75.0,47.0,36.0,DAP
+loamy,wheat,13.0,0.0,36.0,DAP
+red,tobacco,11.0,0.0,37.0,DAP
+loamy,sugarcane,12.0,0.0,36.0,DAP
+loamy,sugarcane,12.0,0.0,40.0,DAP
+clayey,rice,78.0,43.0,36.0,DAP
+clayey,pulses,13.0,0.0,40.0,DAP
+clayey,paddy,12.0,0.0,41.0,DAP
+black,oil seeds,12.0,0.0,39.0,DAP
+sandy,millets,15.0,0.0,37.0,DAP
+sandy,millets,15.0,0.0,41.0,DAP
+red,ground nuts,14.0,0.0,41.0,DAP
+red,ground nuts,15.0,0.0,37.0,DAP
+red,ground nuts,13.0,0.0,39.0,DAP
+sandy,cotton,126.0,46.0,25.0,DAP
+loamy,cotton,102.0,37.0,25.0,DAP
+red,cotton,15.0,0.0,40.0,DAP
+red,cotton,14.0,0.0,38.0,DAP
+black,cotton,14.0,0.0,35.0,DAP
+loamy,cotton,11.0,0.0,38.0,DAP
+sandy,coffee,116.0,23.0,25.0,DAP
+sandy,coffee,117.0,34.0,25.0,DAP
+sandy,barley,10.0,0.0,35.0,DAP
+sandy,barley,12.0,0.0,42.0,DAP
+loamy,wheat,23.0,0.0,19.0,28-28
+red,tobacco,22.0,0.0,20.0,28-28
+red,tobacco,22.0,0.0,24.0,28-28
+red,tobacco,23.0,0.0,21.0,28-28
+clayey,pulses,21.0,0.0,23.0,28-28
+clayey,pulses,24.0,0.0,19.0,28-28
+clayey,paddy,24.0,0.0,22.0,28-28
+clayey,paddy,24.0,0.0,18.0,28-28
+sandy,millets,21.0,0.0,18.0,28-28
+black,millets,23.0,0.0,24.0,28-28
+sandy,maize,23.0,0.0,20.0,28-28
+sandy,maize,22.0,0.0,21.0,28-28
+red,ground nuts,24.0,0.0,23.0,28-28
+black,cotton,24.0,0.0,20.0,28-28
+sandy,barley,21.0,0.0,19.0,28-28
+sandy,barley,21.0,0.0,28.0,28-28
+loamy,wheat,13.0,0.0,9.0,20-20
+black,sugarcane,9.0,0.0,13.0,20-20
+loamy,sugarcane,10.0,0.0,15.0,20-20
+loamy,sugarcane,11.0,0.0,9.0,20-20
+black,sugarcane,12.0,0.0,10.0,20-20
+clayey,pulses,14.0,0.0,13.0,20-20
+clayey,pulses,13.0,0.0,13.0,20-20
+clayey,paddy,13.0,0.0,10.0,20-20
+black,oil seeds,12.0,0.0,8.0,20-20
+black,oil seeds,13.0,0.0,14.0,20-20
+sandy,millets,10.0,0.0,9.0,20-20
+sandy,millets,8.0,0.0,15.0,20-20
+sandy,millets,10.0,0.0,14.0,20-20
+red,cotton,9.0,0.0,10.0,20-20
+black,sugarcane,10.0,13.0,14.0,17-17-17
+loamy,sugarcane,12.0,14.0,12.0,17-17-17
+loamy,sugarcane,11.0,13.0,15.0,17-17-17
+sandy,maize,14.0,15.0,12.0,17-17-17
+red,ground nuts,15.0,14.0,11.0,17-17-17
+red,cotton,11.0,12.0,15.0,17-17-17
+sandy,barley,12.0,10.0,13.0,17-17-17
+clayey,kidneybeans,20.0,25.0,6.0,15-15-15
+loamy,kidneybeans,23.0,23.0,6.0,15-15-15
+loamy,kidneybeans,25.0,18.0,6.0,15-15-15
+loamy,wheat,8.0,8.0,28.0,14-35-14
+loamy,sugarcane,10.0,7.0,32.0,14-35-14
+loamy,sugarcane,8.0,8.0,33.0,14-35-14
+clayey,pulses,8.0,7.0,31.0,14-35-14
+clayey,paddy,9.0,10.0,22.0,14-35-14
+clayey,paddy,10.0,8.0,29.0,14-35-14
+black,oil seeds,9.0,7.0,30.0,14-35-14
+black,oil seeds,8.0,9.0,30.0,14-35-14
+sandy,maize,5.0,9.0,29.0,14-35-14
+sandy,maize,9.0,10.0,30.0,14-35-14
+black,cotton,7.0,9.0,30.0,14-35-14
+red,cotton,9.0,9.0,29.0,14-35-14
+loamy,cotton,8.0,10.0,31.0,14-35-14
+sandy,barley,7.0,9.0,30.0,14-35-14
+loamy,orange,24.0,18.0,6.0,14-14-14
+loamy,orange,4.0,13.0,6.0,14-14-14
+loamy,orange,8.0,16.0,6.0,14-14-14
+loamy,orange,5.0,25.0,6.0,14-14-14
+loamy,wheat,12.0,18.0,19.0,10-26-26
+red,tobacco,13.0,17.0,16.0,10-26-26
+red,tobacco,4.0,17.0,17.0,10-26-26
+clayey,pulses,6.0,19.0,16.0,10-26-26
+clayey,pulses,7.0,16.0,20.0,10-26-26
+clayey,paddy,6.0,19.0,21.0,10-26-26
+sandy,barley,5.0,18.0,15.0,10-26-26
+sandy,orange,22.0,17.0,5.0,10-10-2010
+sandy,orange,4.0,23.0,5.0,10-10-2010
+sandy,orange,11.0,14.0,5.0,10-10-2010
+clayey,kidneybeans,19.0,21.0,6.0,10-10-2010
+clayey,cotton,11.0,0.0,37.0,DAP
+black,barley,11.0,0.0,37.0,DAP
+black,barley,12.0,65.0,96.0,28-28
+loamy,rice,13.0,0.0,40.0,Urea
+clayey,paddy,13.0,0.0,40.0,Urea
+black,barley,13.0,0.0,40.0,Urea
+red,cotton,13.0,0.0,40.0,Urea
+black,pulses,11.0,0.0,37.0,Urea
+clayey,barley,11.0,0.0,37.0,Urea
+black,wheat,11.0,0.0,37.0,Urea
+black,kidneybeans,11.0,0.0,37.0,Urea
+black,watermelon,11.0,0.0,37.0,Urea
+clayey,watermelon,11.0,0.0,37.0,Urea
+clayey,watermelon,50.0,0.0,37.0,Urea
