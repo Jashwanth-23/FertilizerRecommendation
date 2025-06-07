@@ -108,18 +108,21 @@ body.dark-mode {
 .glow-box {
     display: inline-block;
     padding: 20px 30px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.6); /* Dark semi-transparent background */
     border: 2px solid #00ffae;
     border-radius: 15px;
-    box-shadow: 0 0 20px #00ffae80, 0 0 40px #00ffae40;
+    box-shadow: 0 0 15px #00ffae80, 0 0 25px #00ffae40;
     animation: pulse 3s infinite ease-in-out;
+    backdrop-filter: blur(6px); /* Adds smoothness */
 }
+
 .glow-text {
     font-size: 22px;
     font-weight: bold;
-    color: #00ffc8;
+    color: #ffffff; /* Changed from neon to white for clarity */
     text-shadow: 0 0 8px #00ffae, 0 0 12px #00ffae;
 }
+
 @keyframes pulse {
     0% { box-shadow: 0 0 20px #00ffae80, 0 0 40px #00ffae40; }
     50% { box-shadow: 0 0 30px #00ffc880, 0 0 60px #00ffc840; }
